@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="28" viewBox="0 0 700 28" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="24" viewBox="0 0 700 24" role="img" aria-labelledby="title desc">
   <title id="title">个人介绍</title>
   <desc id="desc">美团 AI 产品工程师，先让它跑起来，再让它安静下来。</desc>
   <style>
     .line, .cursor { fill: #57606a; }
     .line {
       font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
-      font-size: 15px;
+      font-size: 16px;
     }
     .reveal { width: 0; animation: typing 6.5s steps(31, end) infinite; }
     .cursor {
@@ -36,7 +36,7 @@
       50%, 100% { opacity: 0; }
     }
   </style>
-  <defs><clipPath id="typing-clip"><rect class="reveal" x="40" y="0" height="28" /></clipPath></defs>
-  <text class="line" x="40" y="19" textLength="620" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing-clip)">美团 AI 产品工程师 · 先让它跑起来，再让它安静下来</text>
-  <rect class="cursor" y="5" width="2.5" height="18" rx="1" />
+  <defs><clipPath id="typing-clip"><rect class="reveal" x="40" y="0" height="24" /></clipPath></defs>
+  <text class="line" x="40" y="17" textLength="620" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing-clip)">美团 AI 产品工程师 · 先让它跑起来，再让它安静下来</text>
+  <rect class="cursor" y="3" width="2.5" height="18" rx="1" />
 </svg>
