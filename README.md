@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     <b>Ruian Tian · 田睿安</b><br>
-    <img src="assets/motto-en.svg" alt="AI Product Engineer @ Meituan · make it work, then make it quiet" width="700" height="24" align="middle"><br>
+    <img src="assets/motto-en.svg" alt="AI Product Engineer @ Meituan · make it work, then make it quiet" width="700" height="42" align="middle"><br>
     <a href="https://tianruian.com">website</a> &nbsp;·&nbsp;
     <a href="https://x.com/realruian">x/twitter</a> &nbsp;·&nbsp;
     <a href="https://github.com/Innate-Labs">Innate Labs</a> &nbsp;·&nbsp;
