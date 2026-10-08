@@ -25,7 +25,7 @@
 - **[pastepop](https://github.com/realruian/pastepop)** — 原生 macOS 剪贴板历史工具，轻量快捷、即开即搜
 - **[SoundPin](https://github.com/realruian/SoundPin)** — macOS 菜单栏音频设备优先级工具，告别 AirPods 抢麦与屏幕抢输出
 - **[v2do](https://github.com/realruian/v2do)** — 快捷键语音速记，本地转写 + Claude 自动同步至系统提醒事项
-- **[catch](https://github.com/realruian/catch)** — 基于 yt-dlp 的极简 macOS 视频下载器，原生 Liquid Glass 质感
+- **[product-demo-video](https://github.com/realruian/product-demo-video)** — 让 Agent 读懂 Web 应用并自动录制剪辑产品演示短视频
 
 ### 思考与写作
 

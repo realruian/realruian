@@ -25,7 +25,7 @@ Crafting polished native macOS tools and AI workflows at the intersection of des
 - **[pastepop](https://github.com/realruian/pastepop)** — Fast, visual clipboard history manager for macOS
 - **[SoundPin](https://github.com/realruian/SoundPin)** — Smart audio device priority manager for macOS menu bar
 - **[v2do](https://github.com/realruian/v2do)** — Voice-to-Reminders for macOS with local transcription & Claude structuring
-- **[catch](https://github.com/realruian/catch)** — Minimal video downloader with Liquid Glass UI, powered by yt-dlp
+- **[product-demo-video](https://github.com/realruian/product-demo-video)** — Agent skill to generate polished walkthrough demo videos for web apps
 
 ### writing
 
