@@ -2,8 +2,8 @@
 
 Rendered from the approved English HTML preview on 2026-11-19.
 
-- Desktop panels: 920 CSS pixels wide, captured at 2× resolution.
-- Mobile panels: 342 CSS pixels wide, captured at 2× resolution.
+- Desktop panels: 920 pixels wide.
+- Mobile panels: 342 pixels wide.
 - WebP encoding: quality 94.
 - Cover: option 04, AFTER HOURS. Eagle item MWM9UAGWHTOSA, collected from the Flova Skill page. Converted algorithmically into ASCII artwork.
 - Atmosphere photograph: Eagle item MWM9UMB2T32RW, collected from the Flova Skill page; shown as a decorative reference, not a project credit.
