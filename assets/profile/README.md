@@ -11,3 +11,5 @@ Rendered from the approved English HTML preview on 2026-11-19.
 - Project illustrations: screenshots/overview artwork from the public innate-studio, quote0-agent-board, Pinny and SoundPin repositories.
 - Static GitHub statistics: 2026-11-19 snapshot, not live telemetry.
 - Original HTML/CSS interactivity is adapted into native README links. Viewport-specific picture sources retain mobile readability.
+
+Light appearance uses white canvas, soft gray panels, dark text and brown-gold ASCII artwork. Theme visibility uses GitHub theme-aware anchor fragments; viewport-specific picture sources choose the mobile image independently of theme.
