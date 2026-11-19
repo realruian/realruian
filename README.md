@@ -61,11 +61,13 @@
 </p>
 
 <p align="center">
+  <samp>
   <a href="https://github.com/realruian/innate-studio">Innate Studio ↗</a> &nbsp;·&nbsp;
   <a href="https://github.com/realruian/quote0-agent-board">Quote/0 Agent Board ↗</a><br>
   <a href="https://github.com/realruian/Pinny">Pinny ↗</a> &nbsp;·&nbsp;
   <a href="https://github.com/realruian/SoundPin">SoundPin ↗</a> &nbsp;·&nbsp;
   <a href="https://github.com/realruian?tab=repositories">All repositories ↗</a>
+  </samp>
 </p>
 
 <p align="center">
@@ -108,17 +110,16 @@
 </p>
 
 <details>
-<summary>About & project details</summary>
+<summary><samp>About &amp; project details</samp></summary>
 
-**Ruian Tian · @realruian** — AI Product Engineer at Meituan.
-
-Make it work, then make it quiet. I build AI products, local-first apps, and practical desktop tools. I also explore visual creation and turn methods into hands-on courses.
-
-- [Innate Studio](https://github.com/realruian/innate-studio): a local-first AI workbench with images, video, audio, and node workflows on one canvas.
-- [Quote/0 Agent Board](https://github.com/realruian/quote0-agent-board): Claude Code and Codex status on an e-ink display.
-- [Pinny](https://github.com/realruian/Pinny): capture, scrolling screenshots, recording, annotation, and pinning for macOS.
-- [SoundPin](https://github.com/realruian/SoundPin): keep your Mac on the microphone and speakers you chose.
-
-Project screenshots come from their repositories. The cover and atmosphere photo are decorative references selected from my Eagle collection.
+<p><samp><b>Ruian Tian · @realruian</b> — AI Product Engineer at Meituan.</samp></p>
+<p><samp>Make it work, then make it quiet. I build AI products, local-first apps, and practical desktop tools. I also explore visual creation and turn methods into hands-on courses.</samp></p>
+<ul>
+<li><samp><a href="https://github.com/realruian/innate-studio">Innate Studio</a>: a local-first AI workbench with images, video, audio, and node workflows on one canvas.</samp></li>
+<li><samp><a href="https://github.com/realruian/quote0-agent-board">Quote/0 Agent Board</a>: Claude Code and Codex status on an e-ink display.</samp></li>
+<li><samp><a href="https://github.com/realruian/Pinny">Pinny</a>: capture, scrolling screenshots, recording, annotation, and pinning for macOS.</samp></li>
+<li><samp><a href="https://github.com/realruian/SoundPin">SoundPin</a>: keep your Mac on the microphone and speakers you chose.</samp></li>
+</ul>
+<p><samp>Project screenshots come from their repositories. The cover and atmosphere photo are decorative references selected from my Eagle collection.</samp></p>
 
 </details>
