@@ -31,31 +31,31 @@
 </p>
 
 <p align="center">
-  <a href="assets/profile/light-desktop-2.webp#gh-light-mode-only">
+  <a href="assets/profile/light-desktop-2.svg#gh-light-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-2.webp">
-      <img src="assets/profile/light-desktop-2.webp" width="920" alt="Small tools, real use. Turning everyday problems into useful products, from AI creation canvases to quiet desktop utilities. Decorative Eagle reference photo.">
+      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-2.svg">
+      <img src="assets/profile/light-desktop-2.svg" width="920" alt="Small tools, real use. Turning everyday problems into useful products, from AI creation canvases to quiet desktop utilities. Decorative Eagle reference photo.">
     </picture>
   </a>
-  <a href="assets/profile/desktop-2.webp#gh-dark-mode-only">
+  <a href="assets/profile/desktop-2.svg#gh-dark-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/mobile-2.webp">
-      <img src="assets/profile/desktop-2.webp" width="920" alt="Small tools, real use. Turning everyday problems into useful products, from AI creation canvases to quiet desktop utilities. Decorative Eagle reference photo.">
+      <source media="(max-width: 767px)" srcset="assets/profile/mobile-2.svg">
+      <img src="assets/profile/desktop-2.svg" width="920" alt="Small tools, real use. Turning everyday problems into useful products, from AI creation canvases to quiet desktop utilities. Decorative Eagle reference photo.">
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <a href="assets/profile/light-desktop-3.webp#gh-light-mode-only">
+  <a href="assets/profile/light-desktop-3.svg#gh-light-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-3.webp">
-      <img src="assets/profile/light-desktop-3.webp" width="920" alt="Selected projects: Innate Studio, Quote/0 Agent Board, Pinny, and SoundPin. Open the individual project links below.">
+      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-3.svg">
+      <img src="assets/profile/light-desktop-3.svg" width="920" alt="Selected projects: Innate Studio, Quote/0 Agent Board, Pinny, and SoundPin. Open the individual project links below.">
     </picture>
   </a>
-  <a href="assets/profile/desktop-3.webp#gh-dark-mode-only">
+  <a href="assets/profile/desktop-3.svg#gh-dark-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/mobile-3.webp">
-      <img src="assets/profile/desktop-3.webp" width="920" alt="Selected projects: Innate Studio, Quote/0 Agent Board, Pinny, and SoundPin. Open the individual project links below.">
+      <source media="(max-width: 767px)" srcset="assets/profile/mobile-3.svg">
+      <img src="assets/profile/desktop-3.svg" width="920" alt="Selected projects: Innate Studio, Quote/0 Agent Board, Pinny, and SoundPin. Open the individual project links below.">
     </picture>
   </a>
 </p>
@@ -69,31 +69,31 @@
 </p>
 
 <p align="center">
-  <a href="assets/profile/light-desktop-4.webp#gh-light-mode-only">
+  <a href="assets/profile/light-desktop-4.svg#gh-light-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-4.webp">
-      <img src="assets/profile/light-desktop-4.webp" width="920" alt="Areas of practice: AI product engineering; visual creation; tools and teaching.">
+      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-4.svg">
+      <img src="assets/profile/light-desktop-4.svg" width="920" alt="Areas of practice: AI product engineering; visual creation; tools and teaching.">
     </picture>
   </a>
-  <a href="assets/profile/desktop-4.webp#gh-dark-mode-only">
+  <a href="assets/profile/desktop-4.svg#gh-dark-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/mobile-4.webp">
-      <img src="assets/profile/desktop-4.webp" width="920" alt="Areas of practice: AI product engineering; visual creation; tools and teaching.">
+      <source media="(max-width: 767px)" srcset="assets/profile/mobile-4.svg">
+      <img src="assets/profile/desktop-4.svg" width="920" alt="Areas of practice: AI product engineering; visual creation; tools and teaching.">
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <a href="assets/profile/light-desktop-5.webp#gh-light-mode-only">
+  <a href="assets/profile/light-desktop-5.svg#gh-light-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-5.webp">
-      <img src="assets/profile/light-desktop-5.webp" width="920" alt="Good tools. Quietly useful.">
+      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-5.svg">
+      <img src="assets/profile/light-desktop-5.svg" width="920" alt="Good tools. Quietly useful.">
     </picture>
   </a>
-  <a href="assets/profile/desktop-5.webp#gh-dark-mode-only">
+  <a href="assets/profile/desktop-5.svg#gh-dark-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/mobile-5.webp">
-      <img src="assets/profile/desktop-5.webp" width="920" alt="Good tools. Quietly useful.">
+      <source media="(max-width: 767px)" srcset="assets/profile/mobile-5.svg">
+      <img src="assets/profile/desktop-5.svg" width="920" alt="Good tools. Quietly useful.">
     </picture>
   </a>
 </p>

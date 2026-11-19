@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="905" height="168.59375" viewBox="0 0 905 168.59375" role="img" aria-labelledby="title"><title id="title">Good tools. Quietly useful.</title><defs><filter id="gray"><feColorMatrix type="saturate" values="0" /></filter><defs>
+<symbol id="people" viewBox="0 0 24 24"><circle cx="10" cy="8" r="3" /><path d="M4 20v-2a6 6 0 0 1 12 0v2M17 5a3 3 0 0 1 0 6M20 20v-2a6 6 0 0 0-3-5" /></symbol>
+<symbol id="code" viewBox="0 0 24 24"><path d="m8 6-6 6 6 6m8-12 6 6-6 6m-3-14-2 16" /></symbol>
+<symbol id="grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5" /><rect x="14" y="3" width="7" height="7" rx="1.5" /><rect x="3" y="14" width="7" height="7" rx="1.5" /><rect x="14" y="14" width="7" height="7" rx="1.5" /></symbol>
+<symbol id="spark" viewBox="0 0 24 24"><path d="m12 2 3 7 7 3-7 3-3 7-3-7-7-3 7-3Z" /></symbol>
+<symbol id="screen" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="14" rx="2" /><path d="M8 22h8m-4-4v4m-6-9 3-3 3 3 5-5" /></symbol>
+<symbol id="pin" viewBox="0 0 24 24"><path d="m8 3 9 0-1 6 4 4-6 1-5 6-1-7-4-4 5-1Z" /></symbol>
+<symbol id="wave" viewBox="0 0 24 24"><path d="M3 10v4m4-8v12m5-16v20m5-16v12m4-8v4" /></symbol>
+</defs><clipPath id="clip18"><rect x="0" y="0" width="905" height="168.59375" rx="32" /></clipPath></defs><g clip-path="url(#clip18)"><rect x="0" y="0" width="905" height="168.59375" rx="32" fill="rgb(255, 255, 255)" /><rect x="0.5" y="0.5" width="904" height="167.59375" rx="32" fill="none" stroke="rgb(216, 222, 228)" stroke-width="1" /><text x="37" y="77.66" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="400" fill="rgb(31, 35, 40)" letter-spacing="-1.68" xml:space="preserve">Good tools.</text><text x="37" y="125.956875" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="400" fill="rgb(31, 35, 40)" letter-spacing="-1.68" xml:space="preserve">Quietly useful.</text></g></svg>

@@ -15,3 +15,5 @@ Rendered from the approved English HTML preview on 2026-11-19.
 Light appearance uses white canvas, soft gray panels, dark text and brown-gold ASCII artwork. Theme visibility uses GitHub theme-aware anchor fragments; viewport-specific picture sources choose the mobile image independently of theme.
 
 Header and process panels are native SVG for crisp high-DPI text and ASCII rendering. The lamp artwork has stronger light-theme contrast.
+
+All six panels now use native SVG text, geometry and icons. Typography roles are unified: Arial/Helvetica for headings and body copy, Menlo/Consolas for labels and ASCII; display numerals use the same sans-serif family as headings. Product screenshots and photos remain source images embedded inside SVG, with their original typography.
