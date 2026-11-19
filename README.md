@@ -1,6 +1,10 @@
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 <p align="center">
+  <img src="assets/ascii-sandstorm.svg" alt="Golden sandstorm rendered as ASCII art" width="900">
+</p>
+
+<p align="center">
   <samp>
     <b>Ruian Tian · 田睿安</b><br>
     <img src="assets/motto-en.svg" alt="AI Product Engineer @ Meituan · make it work, then make it quiet" width="700" height="42" align="middle"><br>
