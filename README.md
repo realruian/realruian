@@ -3,29 +3,29 @@
 <p align="center">
   <a href="https://tianruian.com#gh-light-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-0.webp">
-      <img src="assets/profile/light-desktop-0.webp" width="920" alt="Ruian Tian — AI Product Engineer at Meituan. Make it work, then make it quiet. Golden ASCII After Hours lamp cover.">
+      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-0.svg">
+      <img src="assets/profile/light-desktop-0.svg" width="920" alt="Ruian Tian — AI Product Engineer at Meituan. Make it work, then make it quiet. Golden ASCII After Hours lamp cover.">
     </picture>
   </a>
   <a href="https://tianruian.com#gh-dark-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/mobile-0.webp">
-      <img src="assets/profile/desktop-0.webp" width="920" alt="Ruian Tian — AI Product Engineer at Meituan. Make it work, then make it quiet. Golden ASCII After Hours lamp cover.">
+      <source media="(max-width: 767px)" srcset="assets/profile/mobile-0.svg">
+      <img src="assets/profile/desktop-0.svg" width="920" alt="Ruian Tian — AI Product Engineer at Meituan. Make it work, then make it quiet. Golden ASCII After Hours lamp cover.">
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/realruian?tab=repositories#gh-light-mode-only">
+  <a href="assets/profile/light-desktop-1.svg#gh-light-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-1.webp">
-      <img src="assets/profile/light-desktop-1.webp" width="920" alt="GitHub snapshot, November 19, 2026: 35 public repositories, 15 followers, 2 following; 4 selected projects.">
+      <source media="(max-width: 767px)" srcset="assets/profile/light-mobile-1.svg">
+      <img src="assets/profile/light-desktop-1.svg" width="920" alt="From idea to product: 0 to 1. 01 Explore, 02 Design, 03 Build, 04 Refine. Numbers describe a creative process, not performance statistics.">
     </picture>
   </a>
-  <a href="https://github.com/realruian?tab=repositories#gh-dark-mode-only">
+  <a href="assets/profile/desktop-1.svg#gh-dark-mode-only">
     <picture>
-      <source media="(max-width: 767px)" srcset="assets/profile/mobile-1.webp">
-      <img src="assets/profile/desktop-1.webp" width="920" alt="GitHub snapshot, November 19, 2026: 35 public repositories, 15 followers, 2 following; 4 selected projects.">
+      <source media="(max-width: 767px)" srcset="assets/profile/mobile-1.svg">
+      <img src="assets/profile/desktop-1.svg" width="920" alt="From idea to product: 0 to 1. 01 Explore, 02 Design, 03 Build, 04 Refine. Numbers describe a creative process, not performance statistics.">
     </picture>
   </a>
 </p>
@@ -119,6 +119,6 @@ Make it work, then make it quiet. I build AI products, local-first apps, and pra
 - [Pinny](https://github.com/realruian/Pinny): capture, scrolling screenshots, recording, annotation, and pinning for macOS.
 - [SoundPin](https://github.com/realruian/SoundPin): keep your Mac on the microphone and speakers you chose.
 
-GitHub statistics are a snapshot from November 19, 2026. Project screenshots come from their repositories. The cover and atmosphere photo are decorative references selected from my Eagle collection.
+Project screenshots come from their repositories. The cover and atmosphere photo are decorative references selected from my Eagle collection.
 
 </details>
